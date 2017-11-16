@@ -1,5 +1,7 @@
 ### Heroku link
-https://hidden-brook-82293.herokuapp.com/
+https://fierce-earth-84600.herokuapp.com/
+
+https://github.com/sarahevelynn/deploy-version-2
 
 ## Instructions
 
